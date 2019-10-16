@@ -1,1 +1,3 @@
 # planets
+
+push vs pull
